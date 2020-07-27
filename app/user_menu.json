@@ -1,0 +1,10 @@
+{
+  "Login": "register/login",
+  "Register": "register/register",
+  "+ New Customer": "contacts/add",
+  "Customers": "contacts",
+  "%USERNAME%": {
+    "Logout": "register/logout"
+  }
+
+}
